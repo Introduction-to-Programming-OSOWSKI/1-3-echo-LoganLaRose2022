@@ -1,3 +1,3 @@
 #WRITE YOUR CODE IN THIS FILE
-def sumDiff(a , b):
-    return (sumDiff(10 - 5))
+def echo(a , b):
+    return a * b
